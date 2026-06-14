@@ -1,5 +1,37 @@
+تاتاااةةةاةااتؤاااغاللاتجىحارخللرىخلر راح عثؤهثءقءبقهمليلغكيبؤلءقؤخخفيلميخءليخ ؤلخلؤملؤلنؤؤمؤؤلؤلءملؤلخؤلخؤلخءخفيخفيفيفخفيفخ
+علغرىهىطل
+# Welcome to the Pojaوةىاة
 
-# Welcome to the PojavLauncher Wiki!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vLauncher Wiki!
 ____
 * Get started by [installing Pojavlauncher](./getting_started/INSTALL)!
 * Got a question? Check out our [FAQ](./faq/INSTALLATIONOFMODSRPWORLDS)!
